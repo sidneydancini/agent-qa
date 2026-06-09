@@ -369,7 +369,7 @@ DONE signal: End with "✅ STEP 6 COMPLETE — Report saved to test-results/SCRU
 ```
 You are a DevOps engineer using the GitHub MCP agent to commit all test artifacts.
 
-REPOSITORY: https://github.com/sidneydancini/agent-qa.git
+REPOSITORY: https://github.com/sidneydancini/agent-qa
 
 PRE-COMMIT CHECKLIST — verify ALL items before committing:
 [ ] specs/saucedemo-checkout-test-plan.md exists
